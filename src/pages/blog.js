@@ -4,6 +4,7 @@ const blog = () => {
     return (
         <Layout>
             <h1>This is a Blog page</h1>
+            <h1>This is a Blog page</h1>
             
 
             
