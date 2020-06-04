@@ -6,6 +6,7 @@ export default () => (
   <Layout>
     
     <h1>Hello from gatsby</h1>
+    <h1>Hello from gatsby</h1>
   
     
 
