@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-transform: capitalize;
+}
+
+.product-text{
+    color: red;
+    line-height: 2;
+}
+
+.blog-text {
+    color: green;
+    line-height: 2.5;
+}

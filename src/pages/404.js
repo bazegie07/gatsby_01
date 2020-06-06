@@ -1,9 +1,11 @@
 import React from 'react'
+import Layout from '../components/layout'
+
 
 export default function error() {
     return (
-        <div>
-            <h1>this is error</h1>
-        </div>
+        <Layout>
+            <h1>this is error page</h1>
+        </Layout>
     )
 }
